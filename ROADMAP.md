@@ -1,8 +1,8 @@
 # RAG Lab
 
 ## Phase 1 - Vanilla RAG
-- [ ] PDF Loader
-- [ ] Chunking
+- [x] PDF Loader
+- [x] Chunking
 - [ ] Embeddings
 - [ ] FAISS
 - [ ] Retrieval
